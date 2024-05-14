@@ -1,0 +1,111 @@
+$color1:  orange;
+$color2: bisque 2;
+$color3: blueviolet 3;
+$color4: black 4;
+$color5: #fff;
+$color6: #000;
+
+body {
+    background-color: $color2;
+}
+
+navbar {
+    background-color: $color1;
+
+    .nav-link {
+        color: $color3 !important;
+    }
+
+    .collapse {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .navbar-brand {
+        text-transform: uppercase;
+        background-color: $color4;
+        color: $color4;
+        text-align: center !important;
+    }
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+    color: aquamarine;
+    text-shadow: 0 0 7px $color4;
+}
+
+.jumbotron {
+    background-image: url(/img.destinos/thunder-953118_1280.jpg);
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+h2 {
+    margin: 5px;
+    text-align: center;
+    background-color: $color3;
+    padding: 15px;
+    color: aquamarine;
+    text-shadow: 0 0 7px $color4;
+}
+
+.nleft {
+    background-image: url(/img.destinos/planet-7006513_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 370px;
+}
+
+h3 {
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+    padding: 0px;
+}
+
+.nright {
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #$color6;
+    text-align: center;
+    color: #$color5;
+    font-size: 21px;
+
+    a {
+        color: $color3;
+        font-size: 29px;
+        letter-spacing: 14px;
+        text-decoration: none;
+    }
+}
+
+.container-fluid actividades {
+    background-size: cover;
+    background-position: center;
+    height: 10px;
+}
+
+.article {
+    background-size: cover;
+    background-position: center;
+    height: 11px;
+}
