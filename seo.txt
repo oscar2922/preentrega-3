@@ -1,0 +1,7 @@
+Para mejorar el tema seo lo que hice fue agregar en todas las páginas HTML las etiquetas meta primero que todo la etiqueta <meta name="autor" content="oscar ivan peña ortiz">
+donde agregué el autor qué es mi nombre, adicional a eso también agregué la etiqueta <meta name="descripcion" content;
+contenido donde indica que mi página es de los mejores los mejores viajes  de toda la red con el fin de generar al momento de las búsquedas en una mejor experiencia de usuario también se agregaron las etiquetas <meta name="keywords"
+que eran lo que nos estaban solicitando pues para el tema de la tercera entrega qué puse para mejorar el tema aseo todo lo que indica mi página que son el tema de viajes y vuelos de avión todo lo referente a aventura nuevas experiencia hoteles gastronomía considero que esta es una de las etiquetas más pues más importantes ya que aquí nos indica el momento de la búsqueda todo lo pues de lo que queremos hacer con esta página eh también se agregó la etiqueta <meta http-equiv="refresh" content="5">
+que la vamos a refrescar su contenido cada 5 segundos con el fin de  optimizar esa página y que cada 5 segundos esta se refresca y no se tranque al momento de  que algún usuario la esté revisando o si tiene muchas más de las visitas estás fueron adicional las metas pues ya estaba en la etiqueta meta chart <meta charset="UTF-8" />
+eh la etiqueta <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+Que es lo que vimos durante las primeras clases y por final finalizando esto fue todo lo lo del tema seo y las etiquetas meta.
