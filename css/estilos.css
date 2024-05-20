@@ -1,22 +1,8 @@
-footer {
-  margin-top: 20px;
-  background-color: #000;
-  text-align: center;
-  color: #fff;
-  font-size: 21px;
-}
 
 .container-fluid actividades {
   background-size: cover;
   background-position: center;
   height: 10px;
-}
-
-footer a {
-  color: blueviolet;
-  font-size: 29px;
-  letter-spacing: 14px;
-  text-decoration: none;
 }
 
 .article {
@@ -149,17 +135,17 @@ footer {
   font-size: 21px;
 }
 
-.container-fluid actividades {
-  background-size: cover;
-  background-position: center;
-  height: 10px;
-}
-
 footer a {
   color: blueviolet;
   font-size: 29px;
   letter-spacing: 14px;
   text-decoration: none;
+}
+
+.container-fluid actividades {
+  background-size: cover;
+  background-position: center;
+  height: 10px;
 }
 
 .article {
